@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+data/raw/
+data/processed/
+*.pkl
+*.log
+original_texts.txt
+anonymized_texts.txt
